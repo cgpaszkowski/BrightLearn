@@ -3,7 +3,7 @@
 	$dbhost = "localhost";
 	$dbuser = "root";
 	$dbpw = "";
-	$dbname = "2170";
+	$dbname = "brightlearn";
 
 	$conn = new mysqli($dbhost, $dbuser, $dbpw, $dbname);
 

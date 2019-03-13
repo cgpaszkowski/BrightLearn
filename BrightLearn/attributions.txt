@@ -1,0 +1,38 @@
+References:
+
+Assemany, G. Bootstrap Top navbar and Sidebar. Retrieved from https://codepen.io/assemany/pen/grJoyx
+
+bootstrap4. (2017). Bootstrap 4 Login Form. Retreived from https://www.codeply.com/go/nhbdi2FkJm/bootstrap-4-login-form
+
+Cosmin. (2012). Displaying a message after redirecting the user to another web page. Retreived from https://stackoverflow.com/questions/12249906/displaying-a-message-after-redirecting-the-user-to-another-web-page/35455747
+
+Haigh, Tom. (2009). How do you write code for ID/password info get from CSV and login process? Retreived from https://stackoverflow.com/questions/1011538/how-do-you-write-code-for-id-password-info-get-from-csv-and-login-process
+
+Jobsen, B. (2013). Twitter's Bootstrap 3 Navbar Generator. Retrieved from http://twitterbootstrap3navbars.w3masters.nl/
+
+Lewis, J. (2017). White Ceramic Coffee Mug. Retreived from https://www.pexels.com/photo/beverage-caffeine-coffee-cup-606542/
+
+MDBootstrap. (2019). Background image. Retreived from https://mdbootstrap.com/docs/jquery/css/background-image/
+
+Otto, M. Thornton, J. (2018, December). Bootstrap. Retrieved from https://getbootstrap.com/
+
+Otto, M. Thornton, J. Forms. Retrieved from https://v4-alpha.getbootstrap.com/components/forms/
+
+Paletton. (2014). The Color Scheme Designer. Retrieved from http://paletton.com/#uid=13O0u0k6lhn35rU4Pme7JbJek8K
+
+PHP Documentation Group. (2019). PHP Manual. Retreived from http://php.net/manual/en/function.session-destroy.php
+
+Pontikis, C. (2014). How to create, read, update, and delete a cookie with php or javascript. Retreived from https://www.pontikis.net/blog/create-cookies-php-javascript
+
+Quackit. (2019). Bootstrap 4 Tables. Retreived from https://www.quackit.com/bootstrap/bootstrap_4/tutorial/bootstrap_tables.cfm
+
+Refsnes Data. (2019). Retrieved from https://www.w3schools.com/
+
+Roberts, B. (2015, June). Bootstrap Tutorial for Beginners - 1 - Introduction. Retrieved from https://www.youtube.com/watch?v=qIULMnbH2-o
+
+
+
+
+
+
+

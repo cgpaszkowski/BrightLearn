@@ -1,0 +1,8 @@
+CSCI 0100: A Gentle Intro to the Parsec
+
+Luke
+21/January/2019, 1:08am
+
+Mauris imperdiet erat ac neque commodo fringilla. Morbi lorem ex, facilisis quis dignissim non, venenatis non dolor. Nullam faucibus eget nisl ut maximus. Cras blandit, dolor sed rutrum scelerisque, nisi ante auctor leo, dignissim vestibulum tortor lacus vel neque. Aliquam venenatis nisl posuere nulla egestas feugiat. In sagittis mi a leo vestibulum sollicitudin.
+
+Integer dapibus urna et felis malesuada, id dignissim eros aliquam. Donec tincidunt, nulla eget ullamcorper porta, risus urna placerat enim, commodo pharetra erat ligula nec ex. Vivamus id interdum diam. Integer placerat felis vitae velit hendrerit laoreet. Etiam sed euismod elit. Duis ut porta est. Nulla sed tellus in justo volutpat finibus rutrum id diam.

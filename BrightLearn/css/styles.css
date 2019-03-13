@@ -1,0 +1,22 @@
+body, html {
+	height: 100%;
+}
+.bg {
+	background-image: url("../misc/header_bg1.jpeg");
+	height: 250px;
+	margin-bottom: 1%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.welcome {
+	color: #c1c1c1;
+	font-size: 3em;
+	/*text-align: center;*/
+	padding-left: 2%;
+	padding-top: 8%;
+	vertical-align: middle;
+}
+.footer-style {
+	background-color: #f1f1f1;
+}
